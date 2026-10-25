@@ -17,7 +17,7 @@ I specialize in endpoint telemetry, SIEM log ingestion pipelines, threat analysi
 
 ### 🎓 Education & Academic Qualifications
 
-* **Bachelor of Science (BSc) in Informatics** — University of South Africa (UNISA) *(2022 – 2024)*
+* **Bachelor of Science (BSc) in Informatics** — University of South Africa (UNISA) *(2022 – 2025)*
 * **National Diploma in Biomedical Technology** — Tshwane University of Technology (TUT) *(2016 – 2018)*
 * **National Senior Certificate (Matric)** — Hlomphanang Secondary School *(Mathematics & Physical Science)*
 
