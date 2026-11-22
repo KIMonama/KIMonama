@@ -51,7 +51,12 @@ My journey into cybersecurity is driven by structured home labs, continuous lear
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<p align="left">
+  <a href="https://www.credly.com/badges/4e41f992-8849-45d1-8ea7-462152d9b4cf/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/a8d6cb9c-e0e3-4705-aab0-160cc9d10a11/blob" width="115" alt="Badge 1" />
+  </a>
+  <!-- Paste your next badge <a>...</a> block right here to sit side-by-side -->
+</p>
 ---
 
 ### 🎓 Education
