@@ -67,7 +67,7 @@ My journey into cybersecurity is driven by structured home labs, continuous lear
 ![Microsoft SC-200](https://img.shields.io/badge/Microsoft_Certified-SC--200_Security_Operations_Analyst_(Score:_786)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900_Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A859?style=for-the-badge&logo=isc2&logoColor=white)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e41f992-8849-45d1-8ea7-462152d9b4cf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Verified Certification](https://img.shields.io/badge/Microsoft_Certified-AZ--900_Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/4e41f992-8849-45d1-8ea7-462152d9b4cf/public_url)
 ![Cisco Networking](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 > *Currently preparing for **CompTIA Security+ (SY0-701)**.*
