@@ -17,7 +17,8 @@ My journey into cybersecurity is driven by structured home labs, continuous lear
 | :--- | :--- | :--- |
 | **SIEM Implementation & Log Ingestion** | [Enterprise SIEM & Telemetry Lab](#) | Multi-node log streaming (`WIN-DC01`, `WIN11-WKSTN01` $\rightarrow$ Ubuntu Splunk via TCP `9997`) |
 | **Linux Log Analysis & Brute-Force Detection** | [Splunk Linux Auth & Ingestion Pipeline](#) | Monitoring `/var/log/auth.log` for SSH brute-force & privilege escalation |
-| **Phishing Triage & Email Header Analysis** | [Fishmail Threat Analysis App](#) | Automated SPF/DKIM/DMARC validation, URL inspection & threat scoring |
+| **Phishing Triage & Email Header Analysis** | [PhishMail Threat Analysis App](https://github.com/KIMonama
+/PhishMail) ([Demo PDF](https://github.com/KIMonama/PhishMail/blob/main/PhishMail-Demo-Portfolio.pdf)) | Automated SPF/DKIM/DMARC validation, URL inspection & threat scoring |
 | **Network Traffic & Packet Analysis** | [Wireshark Traffic & Protocol Analysis Lab](#) | Deep packet inspection (DPI) across DNS, TCP & HTTP flows |
 | **Linux Server Provisioning & Hardening** | [Ubuntu SIEM Host & Service Hardening](#) | CLI service administration (`systemctl`, `ss`, `netstat`) & LVM storage management |
 | **Custom Detection Rules (KQL / SPL)** | [Sentinel & Splunk Threat Detection Suite](#) | Alert tuning & correlation searches mapped to MITRE ATT&CK |
